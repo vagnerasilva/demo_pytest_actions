@@ -1,3 +1,8 @@
 # demo_pytest_actions
 
-# testando
+# virtual env
+
+python -m virtualenv ./padraoenv
+
+
+source ./padraoenv/Scripts/activate
